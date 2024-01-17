@@ -1,5 +1,7 @@
 # Web infrastructure design
 
+![Web infrastructure design](https://miro.medium.com/v2/resize:fit:1400/1*t7oSAWV7gtp-WSRNXfM9Hw.jpeg)
+
 Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to design a Web Infrastructure.
 
 ## Key concepts :key:
